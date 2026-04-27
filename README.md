@@ -1,4 +1,4 @@
-# IPTV
+# IPTV IPTV 
 
 Hi all, this is just a public list I compile in my hobby time. Feel free to fork or take whatever you want. I hope you all will be inspired to make more tidy playlists of your own.<br /> 
 
